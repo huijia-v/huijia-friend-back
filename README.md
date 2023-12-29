@@ -19,3 +19,5 @@ Redisson 分布式锁
 Swagger + Knife4j 接口文档
 
 Gson：JSON 序列化库
+
+前端项目地址：https://github.com/huijia-v/huijia-frontend-pc
